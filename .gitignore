@@ -1,0 +1,25 @@
+# Qt / build artifacts
+build/
+build-*/
+.qt-creator/
+*.o
+*.obj
+*.exe
+*.so
+*.7z
+*.zip
+
+# Qt Creator
+*.pro.user
+*.pro.user.*
+.qmake.stash
+
+# Generated resources
+qrc_*.cpp
+moc_*.cpp
+moc_*.h
+ui_*.h
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,108 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Level2.json",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "全部文件 (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "#1": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "#2": {
+            "scaleInDock": 1
+        },
+        "#3": {
+            "scaleInDock": 1
+        },
+        "#Test1": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "#TileSet1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/34741/Downloads/TiledImg (1).json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 690,
+                "y": 217.5
+            }
+        },
+        "C:/Users/34741/Downloads/TiledImg (1).json#TiledImg": {
+            "scaleInDock": 1
+        },
+        "D:/Program Files/Tiled/examples/desert.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 528.3333333333334,
+                "y": 336.1666666666667
+            }
+        },
+        "D:/Program Files/Tiled/examples/desert.tsx": {
+            "scaleInDock": 1
+        },
+        "Level1.json": {
+            "scale": 0.7458984375,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1152.3016496465043,
+                "y": 383.4302173343807
+            }
+        },
+        "Level1.json#TiledImg": {
+            "scaleInDock": 1
+        },
+        "Level2.json": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1079.9999999999998,
+                "y": 404.66666666666663
+            }
+        },
+        "Level2.json#TiledImg": {
+            "scaleInDock": 1
+        },
+        "TiledImg (1).json": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1504,
+                "y": 45
+            }
+        },
+        "TiledImg (1).json#TiledImg": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        }
+    },
+    "last.externalTilesetPath": "D:/QTProject/contra4.1/TileFile/Tile",
+    "last.imagePath": "D:/QTProject/contra4.1/TileFile/Tile",
+    "map.height": 24,
+    "map.width": 108,
+    "openFiles": [
+        "Level2.json",
+        "Level1.json"
+    ],
+    "project": "未命名.tiled-project",
+    "recentFiles": [
+        "Level1.json",
+        "Level2.json",
+        "TiledImg (1).json",
+        "C:/Users/34741/Downloads/TiledImg (1).json",
+        "D:/Program Files/Tiled/examples/desert.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFilter": "全部文件 (*)",
+    "tileset.type": 0
+}
